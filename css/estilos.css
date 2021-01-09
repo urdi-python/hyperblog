@@ -1,22 +1,44 @@
-body
+cuerpo
 {
-    color: #333;
-    text-align: center;
-    font-family: "Arial";
-    font-size: 16px;
-    margin: 0;
-    padding: 0;
+    color: # 333;
+    alineación de texto: centro;
+    familia de fuentes: Courier;
+    tamaño de fuente: 16px;
+    margen: 0;
+    acolchado: 0;
 }
-#container
+
+#cabecera
 {
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid #DDD;
-    margin: 0 auto;
+    fondo: # 33A;
+    caja-sombra: 0px 2px 20px 0px rgba (0,0,0,0.5);
+    color blanco;
+    font-weight: negrita;
+    margen: 0;
+    acolchado: 0.5em;
+}
+
+#cabecera #tagline
+{
+    relleno: 0 0 0 1em;
+    font-weight: normal;
+    tamaño de fuente: 0.8em;
+}
+
+#envase
+{
+    ancho: 70%;
+    acolchado: 0;
+    alineación de texto: izquierda;
+    borde: 1px sólido #DDD;
+    margen: 0 automático;
 }
 
 #container h1
 {
-    font-size: 20px;
+    tamaño de fuente: 20px;
+}
+#enviar
+{
+    acolchado: 1em;
 }
