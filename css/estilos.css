@@ -1,6 +1,6 @@
 cuerpo
 {
-    color: # 333;
+    color: blue;
     alineación de texto: centro;
     familia de fuentes: Courier;
     tamaño de fuente: 16px;
@@ -41,4 +41,3 @@ cuerpo
 #enviar
 {
     acolchado: 1em;
-}
