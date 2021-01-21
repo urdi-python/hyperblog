@@ -2,10 +2,6 @@ Esta es la historia de Freddy Vega
 
 Freddy Vega tiene 32 años y nació en Colombia
 
-<<<<<<< HEAD
-Anita platzi tiene 41 años y nació en Internet 
-=======
-Anita Platzi tiene 41 años y nació en Internet
->>>>>>> header
+Anita platzi es una persona que quiere volver a trabajar en empresaivan
 
 Mañana nos enfocaremos en su vida laboral
